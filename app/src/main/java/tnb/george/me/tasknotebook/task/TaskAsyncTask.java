@@ -8,7 +8,7 @@ import tnb.george.me.tasknotebook.bean.Task;
  * Created by GeorgeZou on 2014/11/27.\
  *
  * @Description:<br/>
- * @Author:GeorgeZou(Zousongqi0213@gmail.com)<br/>
+
  * @Since:2014/11/27<br/>
  */
 public class TaskAsyncTask extends AsyncTask{

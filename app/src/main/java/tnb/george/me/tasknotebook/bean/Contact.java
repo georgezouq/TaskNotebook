@@ -4,7 +4,7 @@ package tnb.george.me.tasknotebook.bean;
  * Created by GeorgeZou on 2014/11/27.\
  *
  * @Description:<br/>
- * @Author:GeorgeZou(Zousongqi0213@gmail.com)<br/>
+
  * @Since:2014/11/27<br/>
  */
 public class Contact {

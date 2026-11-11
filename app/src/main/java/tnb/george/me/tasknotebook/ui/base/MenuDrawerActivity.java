@@ -28,7 +28,7 @@ import tnb.george.me.tasknotebook.utils.UIUtils;
  * Created by GeorgeZou on 2014/11/5.\
  *
  * @Description:<br/>
- * @Author:GeorgeZou(Zousongqi0213@gmail.com)<br/>
+
  * @Since:2014/11/5<br/>
  */
 public abstract class MenuDrawerActivity extends Activity implements MenuAdapter.MenuListener{

@@ -15,7 +15,7 @@ import tnb.george.me.tasknotebook.ui.base.MenuDrawerActivity;
  * Created by GeorgeZou on 2014/11/10.\
  *
  * @Description:<br/>
- * @Author:GeorgeZou(Zousongqi0213@gmail.com)<br/>
+
  * @Since:2014/11/10<br/>
  */
 public class TaskListActivity extends MenuDrawerActivity{

@@ -21,7 +21,7 @@ import tnb.george.me.tasknotebook.utils.UIUtils;
  * Created by GeorgeZou on 2014/11/14.\
  *
  * @Description:<br/>
- * @Author:GeorgeZou(Zousongqi0213@gmail.com)<br/>
+
  * @Since:2014/11/14<br/>
  */
 public class MyTaskListAdapter extends BaseAdapter {
