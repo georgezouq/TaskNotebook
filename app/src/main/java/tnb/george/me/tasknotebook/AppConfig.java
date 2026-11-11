@@ -11,7 +11,7 @@ import java.util.Properties;
  * Created by GeorgeZou on 2014/11/28.\
  *
  * @Description:<br/>
- * @Author:GeorgeZou(Zousongqi0213@gmail.com)<br/>
+
  * @Since:2014/11/28<br/>
  */
 public class AppConfig {

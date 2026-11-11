@@ -26,7 +26,7 @@ import tnb.george.me.tasknotebook.utils.UIUtils;
  * Created by GeorgeZou on 2014/10/29.\
  *
  * @Description:<br/>
- * @Author:GeorgeZou(Zousongqi0213@gmail.com)<br/>
+
  * @Since:2014/10/29<br/>
  */
 public class MainActivity extends MenuDrawerActivity implements View.OnTouchListener {

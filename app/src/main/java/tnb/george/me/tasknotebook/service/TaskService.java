@@ -12,7 +12,7 @@ import android.util.Log;
  * Created by GeorgeZou on 2014/12/3.\
  *
  * @Description:<br/>
- * @Author:GeorgeZou(Zousongqi0213@gmail.com)<br/>
+
  * @Since:2014/12/3<br/>
  */
 public class TaskService extends Service {
